@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string-array name="students">
+
+        <item>Tony</item>
+        <item>Clint</item>
+        <item>Bruce</item>
+        <item>Nick</item>
+        <item>Steve</item>
+    </string-array>
+</resources>
